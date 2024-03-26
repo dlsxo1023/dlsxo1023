@@ -6,13 +6,13 @@
 
 <div align='center'>
 
-# welcome!👋
+## welcome!👋
 
 </div>
 
 <div align='center'>
   
-### ✏Languages and Tools
+### Languages and Tools
  
 </div>
 
