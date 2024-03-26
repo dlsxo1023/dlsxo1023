@@ -18,7 +18,8 @@
 
 
 ## 🎓교육 및 학력사항
-<img alt="Intel" src ="https://img.shields.io/badge/Intel Edge AI SW-3776AB?&style=for-the-badge"/>
+![React](https://img.shields.io/badge/[Intel]_Edge_AI_S/W_Academy-blue?style=flat)
+![React](https://img.shields.io/badge/Inha_Technical_College-Mechanical_Design-red?style=flat)
 
 
 ## 💻 About Me
