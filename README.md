@@ -11,7 +11,7 @@
 </div>
 
 ## 💻 My Stack
-<img alt="C" src ="https://img.shields.io/badge/C-A8B9CC?&style=for-the-badge&logo=C&logoColor=white"/> <img alt="C++" src ="https://img.shields.io/badge/C++-00599C?&style=for-the-badge&logo=C++&logoColor=white"/> <img alt="C#" src ="https://img.shields.io/badge/csharp-512BD4?&style=for-the-badge&logo=C#&logoColor=black"/> 
+<img alt="C" src ="https://img.shields.io/badge/C-A8B9CC?&style=for-the-badge&logo=C&logoColor=white"/> <img alt="C++" src ="https://img.shields.io/badge/C++-00599C?&style=for-the-badge&logo=C++&logoColor=white"/> <img alt="C#" src ="https://img.shields.io/badge/csharp-512BD4?&style=for-the-badge&logo=csharp&logoColor=black"/> 
 <img alt="typescript" src ="https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=black"/> 
 <img alt="React" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/> 
 <img alt="reactquery" src ="https://img.shields.io/badge/reactquery-FF4154.svg?&style=for-the-badge&logo=reactquery&logoColor=white"/> 
