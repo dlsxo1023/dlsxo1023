@@ -4,19 +4,15 @@
 
 </div>
 
-<br>
-
 <div align='center'>
 
 ### welcome!👋
 
 </div>
 
-<br>
-
 <div align='center'>
   
-### <i class="fab fa-github"></i>Languages and Tools
+### Languages and Tools
  
 </div>
 
