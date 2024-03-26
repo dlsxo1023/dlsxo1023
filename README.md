@@ -11,8 +11,7 @@
 </div>
 
 ## 💻 My Stack
-<img alt="C" src ="https://img.shields.io/badge/C-A8B9CC?&style=for-the-badge&logo=C&logoColor=white"/> <img alt="C++" src ="https://img.shields.io/badge/C++-00599C?&style=for-the-badge&logo=cplusplus&logoColor=white"/> <img alt="C#" src ="https://img.shields.io/badge/Csharp-512BD4?&style=for-the-badge&logo=csharp&logoColor=white"/> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=Python&logoColor=yellow"/> <img alt="stm32" src ="https://img.shields.io/badge/stm32-03234B?&style=for-the-badge&logo=stmicroelectronics&logoColor=white"/> 
-<img alt="reactquery" src ="https://img.shields.io/badge/reactquery-FF4154.svg?&style=for-the-badge&logo=reactquery&logoColor=white"/> 
+<img alt="C" src ="https://img.shields.io/badge/C-A8B9CC?&style=for-the-badge&logo=C&logoColor=white"/> <img alt="C++" src ="https://img.shields.io/badge/C++-00599C?&style=for-the-badge&logo=cplusplus&logoColor=white"/> <img alt="C#" src ="https://img.shields.io/badge/Csharp-512BD4?&style=for-the-badge&logo=csharp&logoColor=white"/> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=Python&logoColor=yellow"/> <img alt="stm32" src ="https://img.shields.io/badge/stm32-03234B?&style=for-the-badge&logo=stmicroelectronics&logoColor=white"/> <img alt="Raspberry pi" src ="https://img.shields.io/badge/Raspberry pi-A22846?&style=for-the-badge&logo=raspberrypi&logoColor=white"/> 
 <img alt="redux" src ="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white"/> 
 <img alt="nodedotjs" src ="https://img.shields.io/badge/nodedotjs-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
 <img alt="mongodb" src ="https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
