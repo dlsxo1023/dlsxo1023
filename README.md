@@ -15,6 +15,8 @@
 
 
 ## 🎓교육 및 학력사항
- 
+<img alt="Linux" src ="https://img.shields.io/badge/Intel Edge AI SW-3776AB?&style=for-the-badge"/>
+
+
 ## 💻 About Me
 <a href = "https://github.com/dlsxo1023"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
