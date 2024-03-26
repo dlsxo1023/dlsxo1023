@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlsxo1023&layout=compact)](https://github.com/delay-100/github-readme-stats)
