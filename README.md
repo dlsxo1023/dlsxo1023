@@ -7,5 +7,6 @@
 
 <div align='center'>
   🛠 Languages and Tools
+  ![python badge](https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB)
 </div>
 
