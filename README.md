@@ -22,5 +22,5 @@
 ![React](https://img.shields.io/badge/Inha_Technical_College-Mechanical_Design-red?style=flat)
 
 
-## 🪧💻 About Me
+## 👉 About Me
 <a href = "https://github.com/dlsxo1023"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
