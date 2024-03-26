@@ -1,4 +1,4 @@
-### Hi there 👋
+### 무엇이든 배우고 싶은 송인태입니다 👋
 
 <!--
 **dlsxo1023/dlsxo1023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#A8B9CC
+
 <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlsxo1023&layout=compact)](https://github.com/delay-100/github-readme-stats)
